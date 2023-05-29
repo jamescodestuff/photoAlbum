@@ -1,0 +1,23 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar",
+    "c:\\Users\\joeyz\\OneDrive\\Desktop\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.base.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.controls.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.fxml.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.graphics.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.media.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.swing.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx.web.jar",
+    "c:\\Users\\james\\Desktop\\javafx-sdk-20\\lib\\javafx-swt.jar"
+  ]
+}
