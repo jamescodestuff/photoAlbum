@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * writing and reading of UserApp objects to and from a file.
  * Each UserApp object has an ArrayList of User objects and two constant fields
  * that represent the directory and file name for storing UserApp objects.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class UserApp implements Serializable {
     /**

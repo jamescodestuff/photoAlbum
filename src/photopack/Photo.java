@@ -14,7 +14,6 @@ import java.util.Map;
  * The Photo class represents a single photo in the photo management system. It stores information about the photo such as its path, caption, date, and tags. The date is stored as a Calendar object and can be accessed as either a Date or a Calendar.
  * The tags are stored as a Map of tag types to lists of tag values.
  * The Photo class is serializable, allowing it to be easily saved and loaded from disk.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class Photo implements Serializable{
     /**

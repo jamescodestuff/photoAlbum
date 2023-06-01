@@ -27,7 +27,6 @@ import javafx.stage.Stage;
  * display warning and confirmation dialogs.
  * The class also initializes a ListView with an ObservableList of all user
  * names in the system passed to the constructor.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 
 public class adminController implements Initializable {

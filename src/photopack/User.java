@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * user has created.
  * This class also implements the Serializable interface to allow objects of
  * this class to be serialized.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class User implements Serializable {
     /**

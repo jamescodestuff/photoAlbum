@@ -27,7 +27,6 @@ import javafx.stage.Stage;
  * empty.
  * The getUserList() method returns an ArrayList of Strings containing all user
  * names in the system.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 
 public class loginController implements Initializable {

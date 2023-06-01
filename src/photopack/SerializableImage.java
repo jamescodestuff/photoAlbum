@@ -15,7 +15,6 @@ import javax.imageio.ImageIO;
  * won't be serialized automatically.
  * Therefore, the class includes custom writeObject and readObject methods to
  * serialize and deserialize the image.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class SerializableImage implements Serializable {
     /**

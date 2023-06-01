@@ -34,7 +34,6 @@ import javafx.scene.input.MouseEvent;
  * This class represents the controller for the 6th screen of the PhotoAlbum application.
  * It is responsible for handling the user's search of photos by tag and date, displaying the search results, and creating new albums from the search results.
  * It also allows the user to navigate back to the 3rd screen of the application.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class sixController implements Initializable{
     /**

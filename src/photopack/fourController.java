@@ -41,7 +41,6 @@ import javafx.stage.Stage;
  * GUI screens.
  * The class receives a user and album object upon initialization and implements
  * the Initializable interface to initialize the GUI components
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class fourController implements Initializable {
 

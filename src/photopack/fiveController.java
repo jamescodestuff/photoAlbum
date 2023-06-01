@@ -31,7 +31,6 @@ import javafx.stage.Stage;
  * It allows the user to view and modify a Photo object's properties, including
  * its image, caption, and tags,
  * move or copy the photo to a different album.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 
 public class fiveController implements Initializable {

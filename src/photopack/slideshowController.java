@@ -15,7 +15,6 @@ import javafx.scene.image.ImageView;
  * It implements the Initializable interface from JavaFX to initialize the view when it is loaded.
  * It contains methods for moving to the previous or next image in the slideshow, and a constructor for passing in the list of images to display.
  * The class utilizes an ImageView object to display the images, and keeps track of a counter to know which image to display next.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 
 public class slideshowController implements Initializable{

@@ -23,7 +23,6 @@ import javafx.stage.Stage;
 /**
  * Controller class for the third screen of the application, which displays a list of albums for the user to view and edit.
  * Allows for the addition, deletion, and renaming of albums, as well as the navigation to the fourth and sixth screens.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class threeController implements Initializable{
     /**

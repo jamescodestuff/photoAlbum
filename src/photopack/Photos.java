@@ -15,7 +15,6 @@ import javafx.stage.Stage;
  * start method to set up the primary stage of the application
  * and a main method to launch the application. The class also contains a static
  * ArrayList of Photo objects named "pictures".
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 public class Photos extends Application {
     /**

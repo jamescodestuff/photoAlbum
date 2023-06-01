@@ -12,7 +12,6 @@ import java.util.Calendar;
  * and check for duplicate photos.
  * It also has methods to retrieve and modify the name of the album and its
  * photo collection.
- * @author Joey Zheng jz813 JunFeng Wang jw1397
  */
 
 public class Album implements Serializable {
